@@ -6,7 +6,7 @@
   "scripts": {
     "clean": "del-cli dist",
     "dev": "del-cli dist && parcel src/index.html --open",
-    "build": "del-cli dist && parcel build src/index.html"
+    "build": "del-cli dist && parcel build src/index.html --public-url ./"
   },
   "repository": {
     "type": "git",
