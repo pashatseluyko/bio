@@ -1,0 +1,30 @@
+{
+  "name": "pasha",
+  "version": "1.0.0",
+  "description": "About Pasha Tseluyko",
+  "main": "index.js",
+  "scripts": {
+    "clean": "del-cli dist",
+    "dev": "del-cli dist && parcel src/index.html --open",
+    "build": "del-cli dist && parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a1exalexander/PashaTseluyko.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a1exalexander/PashaTseluyko/issues"
+  },
+  "homepage": "https://github.com/a1exalexander/PashaTseluyko#readme",
+  "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "@babel/preset-env": "^7.3.4",
+    "autoprefixer": "^9.4.10",
+    "cssnano": "^4.1.10",
+    "del-cli": "^1.1.0",
+    "sass": "^1.17.2"
+  }
+}
