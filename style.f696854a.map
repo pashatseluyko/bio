@@ -1,1 +1,1 @@
-{"version":3,"sources":[],"names":[],"mappings":"","file":"style.f696854a.map","sourceRoot":"..\\src"}
+{"version":3,"sources":["style.f696854a.css"],"names":["font-family","src","font-weight","font-style","padding","margin","-webkit-box-sizing","box-sizing","body","font-size",".body"],"mappings":"AAAA,WACEC,YAAa,MACbC,IAAK,oDAAoD,eAAe,+CAA+C,aACvHC,YAAa,IACbC,WAAY,QACd,EACA,EACEC,QAAS,EACTC,OAAQ,EACRC,sBAAuB,YACvBC,WAAY,YACd,EACA,EACER,YAAa,iBACbE,YAAa,IACbO,UAAW,KACb,EACAC,OACEL,QAAS,WACX","file":"style.f696854a.css","sourceRoot":".."}
